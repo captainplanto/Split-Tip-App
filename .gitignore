@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/assets
+./assets
 /.style-guide.md
 /.README.md
 /.README-template.md
